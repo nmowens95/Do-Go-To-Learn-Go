@@ -1,0 +1,35 @@
+Practice Problems:
+
+Pointers:
+Problem: Swap Function with Pointers
+Write a function that takes two integer pointers and swaps the values they point to. Test the function by passing two integer variables and printing their values before and after the swap.
+
+Channels:
+Problem: Sum Calculator with Channels
+Create a function that calculates the sum of a list of integers concurrently using channels. Divide the list into two halves and sum each half concurrently. Then, sum the results to find the total sum. Print the final sum.
+
+Mutexes:
+Problem: Concurrent Counter with Mutex
+Implement a concurrent counter using a mutex to synchronize access. Create multiple goroutines that increment the counter simultaneously. Ensure that the counter is safely incremented and print its final value.
+
+Goroutines:
+Problem: Print Numbers Sequentially
+Write a program that prints numbers from 1 to 10 using separate goroutines. Ensure they print in sequential order. For instance, the first goroutine prints 1, the second prints 2, and so on.
+
+Capstone Project:
+Problem: Concurrent Task Manager with Database and Channels
+
+Objective:
+Create a task manager that allows concurrent creation, deletion, and updating of tasks while interacting with a database. Use goroutines for concurrent operations, channels for synchronization, 
+pointers for efficient data handling, and mutexes for safe access to shared data.
+
+Components:
+
+Task Structure: Define a Task struct with fields like ID, Name, Description, Status, etc.
+Database: Use SQLite or another simple database to store task data.
+Concurrency Elements: Use goroutines, channels, mutexes to handle concurrent CRUD operations on tasks.
+Endpoints: Implement CRUD endpoints (GET, POST, PUT, DELETE) for managing tasks.
+Testing: Write tests to verify the concurrency mechanisms, database operations, and API endpoints.
+This project will integrate all the fundamental concepts—pointers for efficient data handling, channels for synchronization, 
+mutexes for safe concurrent access, and goroutines for concurrent execution—in a practical scenario. It will provide hands-on 
+experience in managing a concurrent application with multiple components interacting together.
