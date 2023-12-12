@@ -16,4 +16,4 @@ func BenchmarkCountLines2(b *testing.B) {
 	}
 }
 
-// go run -test <function>
+// go test -bench=.
