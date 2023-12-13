@@ -3,18 +3,24 @@
 
 ![wp7041189](https://github.com/nmowens95/Go-Practice/assets/126295718/3280c544-d83f-4b53-a671-78929e180538)
 
-Looking for some bite sized problems to learn concepts in Go? Well look no further.
--  Sometimes it's hard to learn smaller concepts and only building tailored projects to learn those things
+<h1>Want bite sized problems to learn concepts in Go? Look no further.</h1>
 
-- It's definitely true, you learn by doing/practicing. The goal of this project is to work through concepts with pracitcality and repitition to help learn
+-  It can be hard to learn smaller concepts by only building tailored projects around those topics... that's where these problems come in.
 
-- The key here is to write them from SCRATCH. You will be given instructions and some hints but writing a function that interacts with other functions from start to finish will get you much further than adjusting a bit of syntax from a given problem
+- It's definitely true, you learn by doing and practicing. The goal here is to provide problems to work through concepts, build repitition and to help understand.
 
-- This is what you make it. Avoid looking for the answer, try to brute force a solution. Then run a test or two. Don't like it? Then refactor it.
+- The key here is to write these problems from SCRATCH (lets avoid tutorial hell). You will be given instructions and some hints, but it's important to know how everything strings together and putting your fingers on the keyboard typing out the syntax over and over.
 
-- Use google, your courses and notes. But whatever you do, write your own code. I even reccomend brute forcing once, then re-writing while explaining out loud.
+- You'll get out of this what you make it. Avoid looking at the answer right away, try to brute force a solution. Need practice writing tests? Write a test or two. Don't like it? Then refactor it.
 
-- There are different types of problems as well as a small project: #web-scraper and a capstone project: #task-manager that can help take your understanding even further
+- Use google, your courses, notes or whatever you like. But whatever you do, write your own code. I even reccomend brute forcing a solution once, then re-writing it while explaining out loud.
+
+- The problems primarily focus on a specific concept but isn't mutually exclusive. Example: a problem using channels may have pointers.
+
+- Currently there is a small project creating a Web Crawler! This is a small project that uses go routines to add in some real practicality.
+
+- There is also a capstone project, this is a Task Manager. There will be further instructions in the folder, you will build this on your own and a reference to the project will be found here: ...(to come soon)
+
 ## Installation
  
 You can either look at the instructions on your own, write your own problems or clone the repository and work off the given files:
