@@ -19,15 +19,15 @@
 
 - Currently there is a small project creating a Web Crawler! This is a small project that uses go routines to add in some real practicality.
 
-- There is also a capstone project, this is a Task Manager. There will be further instructions in the folder, you will build this on your own and a reference to the project will be found here: ...(to come soon)
+- There is also a capstone project, the goal will be to build a Task Manager. There will be further instructions in the folder, you will build this on your own and a reference to the project will be found here: ...(to come soon)
 
 ## Concepts
 | 🚀 | Topic + URL           | 
 | - |:-------------|
 | 0 | [Channels](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/channels) | [Problem 1] () | [Problem 2] () |
 | 1 | [Go Routines](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/go_routines)  | [Problem 1] () | [Problem 2] () |
-| 2 | [Mutexes](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes)  | [Problem 1] () | [Problem 2] () |
-| 3 | [Pointers](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers)  | [Problem 1] () | [Problem 2] () |
+| 2 | [Mutexes](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes)  | [Problem 1] (https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes/problem_1) | [Problem 2] (https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes/problem_2) |
+| 3 | [Pointers](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers)  | [Problem 1] (https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers/problem_1) | [Problem 2] (https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers/problem_2) |
 | 4 | [Read Files](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/read_files)  | [Problem 1] () | [Problem 2] () |
 | 5 | [Web Crawler Mini Project](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/web_crawler_project)  |
 
