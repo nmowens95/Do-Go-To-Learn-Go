@@ -24,11 +24,11 @@
 ## Concepts
 | 🚀 | Topic + URL           | 
 | - |:-------------|
-| 0 | [Channels](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/channels) |
-| 1 | [Go Routines](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/go_routines)  |
-| 2 | [Mutexes](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes)  |
-| 3 | [Pointers](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers)  |
-| 4 | [Read Files](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/read_files)  |
+| 0 | [Channels](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/channels) | [Problem 1] () | [Problem 2] () |
+| 1 | [Go Routines](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/go_routines)  | [Problem 1] () | [Problem 2] () |
+| 2 | [Mutexes](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes)  | [Problem 1] () | [Problem 2] () |
+| 3 | [Pointers](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers)  | [Problem 1] () | [Problem 2] () |
+| 4 | [Read Files](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/read_files)  | [Problem 1] () | [Problem 2] () |
 | 5 | [Web Crawler Mini Project](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/web_crawler_project)  |
 
 ## Installation
