@@ -1,5 +1,5 @@
 
-# <p align= "center">Do Go To Learn Go</p>
+# <h1 align= "center">Do Go To Learn Go</h1>
 
 ![wp7041189](https://github.com/nmowens95/Go-Practice/assets/126295718/3280c544-d83f-4b53-a671-78929e180538)
 
@@ -21,9 +21,19 @@
 
 - There is also a capstone project, this is a Task Manager. There will be further instructions in the folder, you will build this on your own and a reference to the project will be found here: ...(to come soon)
 
+## Concepts
+| 🚀 | Topic + URL           | 
+| - |:-------------|
+| 0 | [Channels](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/channels) |
+| 1 | [Go Routines](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/go_routines)  |
+| 2 | [Mutexes](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/mutexes)  |
+| 3 | [Pointers](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/pointers)  |
+| 4 | [Read Files](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/read_files)  |
+| 5 | [Web Crawler Mini Project](https://github.com/nmowens95/Do-Go-To-Learn-Go/tree/main/web_crawler_project)  |
+
 ## Installation
  
-You can either look at the instructions on your own, write your own problems or clone the repository and work off the given files:
+You can either look at the instructions on your own and write your own problems or clone the repository and work off the given files. Your choice.
 ```bash
   git clone https://github.com/nmowens95/Do-Go-To-Learn-Go
 ```
@@ -42,16 +52,14 @@ From current directory use the following command along with the folder of choice
 ```bash
   cd <specified file>
 ```
-## Lessons Learned
 
-
-- Interacting with go routines, channels, mutexes and pointers
-- Reading a text file
-- Crawling a website, using tokens 
-## Roadmap
-- Room for more problems and additional examples
-- Adding additional resources for others to refer to
+## Possible Additional Concepts To Come
+- Caching
+- Marshal/Unmarshaling
+- Error handling
+- More problems to current topics
 - Reference to an example of Capstone project
+
 ## Contributing
 
 Contributions are always welcome!
